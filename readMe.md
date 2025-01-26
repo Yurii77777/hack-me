@@ -17,4 +17,4 @@ Now, there are several cases that can be used to distribute malicious code very 
 
 ### Support author here 👇😉
 
-![Winamp Preview](./src/renderer/assets/images/IMG_2260.JPG)
+![Support Author](./assets//img/IMG_2260.JPG)
