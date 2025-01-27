@@ -15,6 +15,10 @@ Now, there are several cases that can be used to distribute malicious code very 
 - `yarn dev`;
 - check 'Downloads' directory on your PC;
 
+### Watch Video
+
+[![Hack Me](https://img.youtube.com/vi/g7G8hsoF3hA/0.jpg)](https://youtu.be/g7G8hsoF3hA)
+
 ### Support author here 👇😉
 
 ![Support Author](./assets//img/IMG_2260.JPG)
